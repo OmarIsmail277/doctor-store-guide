@@ -120,3 +120,4 @@ export const devicesAr = [
     description: "تستخدم لنقل الإمدادات والمعدات الطبية.",
   },
 ];
+

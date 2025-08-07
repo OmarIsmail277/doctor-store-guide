@@ -120,3 +120,4 @@ export const diseasesAr = [
     description: "رد فعل تحسسي يسبب العطس والاحتقان وسيلان الأنف.",
   },
 ];
+
